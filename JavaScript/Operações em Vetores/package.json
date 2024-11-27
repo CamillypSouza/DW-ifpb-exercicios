@@ -1,0 +1,16 @@
+{
+  "name": "dw-disciplina",
+  "version": "1.0.0",
+  "main": "operacaoVetores.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  
+  "type": "module",
+  "scripts": {
+    "start": "node OpVetores-teste.js"
+  }
+
+}
+
